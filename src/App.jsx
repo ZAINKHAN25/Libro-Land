@@ -5,6 +5,7 @@ import Home from "./Pages/Home/index.jsx"
 import NotFound from "./Pages/NotFound/index.jsx"
 
 function App() {
+  
   return (
     <BrowserRouter>
       <Routes>
